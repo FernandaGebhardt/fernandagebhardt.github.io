@@ -10,7 +10,7 @@ h2{
     color:black;
     background-color: blanchedalmond;
 }
-h2:hover{
+h2:hover, h1:hover, h3:hover{
     color:yellow;
     background-color:black;
 }
