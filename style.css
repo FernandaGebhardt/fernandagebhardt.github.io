@@ -10,6 +10,10 @@ h2{
     color:black;
     background-color: blanchedalmond;
 }
+h2:hover{
+    color:yellow;
+    background-color:black;
+}
 h3{
     color:blueviolet;
     background-color: bisque;
