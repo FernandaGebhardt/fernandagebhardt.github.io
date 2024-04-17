@@ -1,6 +1,6 @@
 body
-    background-color:whitesmoke;
-    color:black;
+    background-color:whitesmoke
+    color:black
     * {
         margin: 0;
         padding: 0;
@@ -45,19 +45,7 @@ body
         padding: 24px 0;
     }    
 
-h1{
-    color:blue;
-    background-color: azure;
-}
-h2{
-    color:black;
-    background-color: blanchedalmond;
-}
-h2:hover, h1:hover, h3:hover{
-    color:yellow;
-    background-color:black;
-}
-h3{
-    color:blueviolet;
-    background-color: bisque;
+img {
+    width: 400px;
+    height: 600px;
 }
