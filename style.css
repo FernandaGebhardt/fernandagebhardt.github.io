@@ -46,8 +46,8 @@ body
     }    
 
 img {
-    width: 400px;
-    height: 600px;
+    width: 200px;
+    height: 400px;
 }
 
 .escola-imagem{
@@ -55,10 +55,6 @@ img {
     height: 100px;
 }
 .cabecalho-imagem{
-    width: 100px;
-    height: 100px;
-}
-img src{
     width: 100px;
     height: 100px;
 }
